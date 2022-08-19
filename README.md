@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prince3654
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently learning Android devlopment
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on android devlopment
 - 📫 How to reach me ...
 
 <!---
