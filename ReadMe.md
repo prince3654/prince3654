@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI CHAT WEB APP**
+- 🔭 I’m currently working on **WEB 3 BlockChain**
 
-- 🌱 I’m currently learning **Firebase ,AI**
+- 🌱 I’m currently learning **Firebase ,BlockChain**
 
-- 👯 I’m looking to collaborate on **AI CHAT WEB APP AND CHAT BOT**
+- 👯 I’m looking to collaborate on **AI CHAT WEB APP && BlockChain**
 
-- 🤝 I’m looking for help with **AI CHAT BOT INTEGRATION**
+- 🤝 I’m looking for help with **AI CHAT Character**
 
-- 💬 Ask me about **react, node , Express , Mongodb , c++ ,java**
+- 💬 Ask me about **react, node , Express , Mongodb , c++ ,java,solidity**
 
 - 📫 How to reach me **princeraj54362@gmail.com**
 
